@@ -1,1 +1,6 @@
-Just run validate.sh
+This is an example of how to use Schematron to assert business rules on
+XML documents.
+
+Read about it on http://mcl.jogger.pl
+
+To use it, just run validate.sh - it is self-explanatory.
