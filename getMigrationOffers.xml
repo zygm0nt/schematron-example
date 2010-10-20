@@ -1,0 +1,336 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+   <soap:Body>
+      <getMigrationOffersResponse xmlns="http://example.com/pc/types">
+         <offer acceptation="true" agreementType="postpaid"
+backupOfferId="102680" isLow="true" isVoucherOriginated="true"
+loyalityPeriod="12" noHandset="true" offerId="102750" offerName="Postpaid" penalty="389" serviceType="mobile" startDate="2010-06-29T00:00:00.000+02:00">
+<!--            <tariff activationFee="49" ccbsComponentId="19232" ccbsPackageId="15957" id="30135" name="LongPlay 29" periodFee="29" setActivationFee="true" voiceData="VOICE"/>-->
+            <offerPromotion ccbsPromotionId="30455" name="LongPlay bez telefonu 29.06"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102750" isLow="false" loyalityPeriod="24" noHandset="false" offerId="102750" offerName="Postpaid" penalty="1500" promotionIds="SI_LP_29" serviceType="mobile" startDate="2010-08-18T00:00:00.000+02:00">
+            <tariff activationFee="49" ccbsComponentId="19232" ccbsPackageId="15957" id="30135" name="LongPlay 29" periodFee="29" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30469" name="LongPlay INTERNET"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" isLow="true" loyalityPeriod="12" noHandset="true" offerId="102980" offerName="Postpaid" penalty="389" serviceType="mobile" startDate="2010-09-20T23:23:16.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="19232" ccbsPackageId="15957" id="30135" name="LongPlay 29" periodFee="29" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30492" name="LongPlay bez telefonu 28.09"/>
+         </offer>
+         <offer acceptation="false" agreementType="postpaid" backupOfferId="102081" isLow="true" noHandset="true" offerId="102081" offerName="Postpaid" penalty="0" serviceType="mobile" startDate="2010-03-16T00:00:00.000+01:00">
+            <tariff activationFee="29" ccbsComponentId="19233" ccbsPackageId="15958" id="30137" name="LongPlay 49" periodFee="49" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30405" name="LongPlay na czas nieokreślony"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102670" isLow="false" isVoucherOriginated="true" loyalityPeriod="24" noHandset="false" offerId="102670" offerName="Postpaid" penalty="1500" promotionIds="LP_49" serviceType="mobile" startDate="2010-06-29T00:00:00.000+02:00">
+            <tariff activationFee="29" ccbsComponentId="19233" ccbsPackageId="15958" id="30137" name="LongPlay 49" periodFee="49" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30454" name="Stan Darmowy LongPlay PRACOWNICZA"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102681" isLow="true" isVoucherOriginated="true" loyalityPeriod="12" noHandset="true" offerId="102681" offerName="Postpaid" penalty="541" serviceType="mobile" startDate="2010-06-29T00:00:00.000+02:00">
+            <tariff activationFee="29" ccbsComponentId="19233" ccbsPackageId="15958" id="30137" name="LongPlay 49" periodFee="49" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30455" name="LongPlay bez telefonu 29.06"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102751" isLow="false" loyalityPeriod="24" noHandset="false" offerId="102751" offerName="Postpaid" penalty="1500" promotionIds="SI_LP_49" serviceType="mobile" startDate="2010-08-18T00:00:00.000+02:00">
+            <tariff activationFee="29" ccbsComponentId="19233" ccbsPackageId="15958" id="30137" name="LongPlay 49" periodFee="49" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30469" name="LongPlay INTERNET"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" isLow="true" loyalityPeriod="12" noHandset="true" offerId="102981" offerName="Postpaid" penalty="541" serviceType="mobile" startDate="2010-09-20T23:23:16.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="19233" ccbsPackageId="15958" id="30137" name="LongPlay 49" periodFee="49" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30492" name="LongPlay bez telefonu 28.09"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102671" isLow="false" isVoucherOriginated="true" loyalityPeriod="24" noHandset="false" offerId="102671" offerName="Postpaid" penalty="1500" promotionIds="LP_69" serviceType="mobile" startDate="2010-06-29T00:00:00.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="19234" ccbsPackageId="15959" id="30139" name="LongPlay 69" periodFee="69" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30454" name="Stan Darmowy LongPlay PRACOWNICZA"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102682" isLow="true" isVoucherOriginated="true" loyalityPeriod="12" noHandset="true" offerId="102682" offerName="Postpaid" penalty="807" serviceType="mobile" startDate="2010-06-29T00:00:00.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="19234" ccbsPackageId="15959" id="30139" name="LongPlay 69" periodFee="69" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30455" name="LongPlay bez telefonu 29.06"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102752" isLow="false" loyalityPeriod="24" noHandset="false" offerId="102752" offerName="Postpaid" penalty="1500" promotionIds="SI_LP_69" serviceType="mobile" startDate="2010-08-18T00:00:00.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="19234" ccbsPackageId="15959" id="30139" name="LongPlay 69" periodFee="69" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30469" name="LongPlay INTERNET"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" isLow="true" loyalityPeriod="12" noHandset="true" offerId="102982" offerName="Postpaid" penalty="807" serviceType="mobile" startDate="2010-09-20T23:23:16.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="19234" ccbsPackageId="15959" id="30139" name="LongPlay 69" periodFee="69" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30492" name="LongPlay bez telefonu 28.09"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102672" isLow="false" isVoucherOriginated="true" loyalityPeriod="24" noHandset="false" offerId="102672" offerName="Postpaid" penalty="1500" promotionIds="LP_99" serviceType="mobile" startDate="2010-06-29T00:00:00.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="19235" ccbsPackageId="15960" id="30141" name="LongPlay 99" periodFee="99" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30454" name="Stan Darmowy LongPlay PRACOWNICZA"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102683" isLow="true" isVoucherOriginated="true" loyalityPeriod="12" noHandset="true" offerId="102683" offerName="Postpaid" penalty="1147" serviceType="mobile" startDate="2010-06-29T00:00:00.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="19235" ccbsPackageId="15960" id="30141" name="LongPlay 99" periodFee="99" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30455" name="LongPlay bez telefonu 29.06"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102753" isLow="false" loyalityPeriod="24" noHandset="false" offerId="102753" offerName="Postpaid" penalty="1500" promotionIds="SI_LP_99" serviceType="mobile" startDate="2010-08-18T00:00:00.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="19235" ccbsPackageId="15960" id="30141" name="LongPlay 99" periodFee="99" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30469" name="LongPlay INTERNET"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" isLow="true" loyalityPeriod="12" noHandset="true" offerId="102983" offerName="Postpaid" penalty="1147" serviceType="mobile" startDate="2010-09-20T23:23:17.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="19235" ccbsPackageId="15960" id="30141" name="LongPlay 99" periodFee="99" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30492" name="LongPlay bez telefonu 28.09"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100934" loyalityPeriod="24" noHandset="false" offerId="100934" offerName="Postpaid" penalty="1500" promotionIds="op_145_24" serviceType="mobile" startDate="2009-10-01T00:00:00.000+02:00">
+            <tariff activationFee="19" ccbsComponentId="17881" ccbsPackageId="15923" id="30094" name="One Play 145" periodFee="145" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30277" name="POST Trzy razy więcej  (24)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100944" loyalityPeriod="36" noHandset="false" offerId="100944" offerName="Postpaid" penalty="1500" promotionIds="op_145_36" serviceType="mobile" startDate="2009-10-01T00:00:00.000+02:00">
+            <tariff activationFee="19" ccbsComponentId="17881" ccbsPackageId="15923" id="30094" name="One Play 145" periodFee="145" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30278" name="POST Trzy razy więcej  (36)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101764" isLow="false" loyalityPeriod="24" noHandset="false" offerId="101764" offerName="Postpaid" penalty="1500" promotionIds="SI_op_145_24" serviceType="mobile" startDate="2010-01-19T00:00:00.000+01:00">
+            <tariff activationFee="19" ccbsComponentId="17881" ccbsPackageId="15923" id="30094" name="One Play 145" periodFee="145" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30381" name="Swobodny Internet 2 (24)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101774" isLow="false" loyalityPeriod="36" noHandset="false" offerId="101774" offerName="Postpaid" penalty="1500" promotionIds="SI_op_145_36" serviceType="mobile" startDate="2010-01-19T00:00:00.000+01:00">
+            <tariff activationFee="19" ccbsComponentId="17881" ccbsPackageId="15923" id="30094" name="One Play 145" periodFee="145" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30382" name="Swobodny Internet 2 (36)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="360695" loyalityPeriod="24" noHandset="false" offerId="360695" offerName="Postpaid" penalty="1500" promotionIds="op_145_24" serviceType="mobile" startDate="2008-01-01T00:00:00.000+01:00">
+            <tariff activationFee="1" ccbsComponentId="17881" ccbsPackageId="15923" id="30094" name="One Play 145" periodFee="145" setActivationFee="false" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30108" name="One Play PRACOWNICZA"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100933" loyalityPeriod="24" noHandset="false" offerId="100933" offerName="Postpaid" penalty="1500" promotionIds="op_95_24" serviceType="mobile" startDate="2009-10-01T00:00:00.000+02:00">
+            <tariff activationFee="19" ccbsComponentId="17880" ccbsPackageId="15922" id="30093" name="One Play 95" periodFee="95" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30277" name="POST Trzy razy więcej  (24)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100943" loyalityPeriod="36" noHandset="false" offerId="100943" offerName="Postpaid" penalty="1500" promotionIds="op_95_36" serviceType="mobile" startDate="2009-10-01T00:00:00.000+02:00">
+            <tariff activationFee="19" ccbsComponentId="17880" ccbsPackageId="15922" id="30093" name="One Play 95" periodFee="95" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30278" name="POST Trzy razy więcej  (36)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101763" isLow="false" loyalityPeriod="24" noHandset="false" offerId="101763" offerName="Postpaid" penalty="1500" promotionIds="SI_op_95_24" serviceType="mobile" startDate="2010-01-19T00:00:00.000+01:00">
+            <tariff activationFee="19" ccbsComponentId="17880" ccbsPackageId="15922" id="30093" name="One Play 95" periodFee="95" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30381" name="Swobodny Internet 2 (24)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101773" isLow="false" loyalityPeriod="36" noHandset="false" offerId="101773" offerName="Postpaid" penalty="1500" promotionIds="SI_op_95_36" serviceType="mobile" startDate="2010-01-19T00:00:00.000+01:00">
+            <tariff activationFee="19" ccbsComponentId="17880" ccbsPackageId="15922" id="30093" name="One Play 95" periodFee="95" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30382" name="Swobodny Internet 2 (36)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101033" isLow="true" loyalityPeriod="6" noHandset="true" offerId="101033" offerName="Postpaid" penalty="285" serviceType="mobile" startDate="2009-08-23T00:00:00.000+02:00">
+            <tariff activationFee="29" ccbsComponentId="17880" ccbsPackageId="15922" id="30093" name="One Play 95" periodFee="95" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30292" name="One Play bez telefonu (6)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="360694" loyalityPeriod="24" noHandset="false" offerId="360694" offerName="Postpaid" penalty="1500" promotionIds="op_95_24" serviceType="mobile" startDate="2008-01-01T00:00:00.000+01:00">
+            <tariff activationFee="1" ccbsComponentId="17880" ccbsPackageId="15922" id="30093" name="One Play 95" periodFee="95" setActivationFee="false" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30108" name="One Play PRACOWNICZA"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100682" isLow="true" loyalityPeriod="12" noHandset="true" offerId="100682" offerName="Postpaid" penalty="477" serviceType="mobile" startDate="2009-07-02T00:00:00.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="17880" ccbsPackageId="15922" id="30093" name="One Play 95" periodFee="95" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30257" isRollover="true" name="One Play bez telefonu (12) 2.07"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100932" loyalityPeriod="24" noHandset="false" offerId="100932" offerName="Postpaid" penalty="1500" promotionIds="op_65_24" serviceType="mobile" startDate="2009-10-01T00:00:00.000+02:00">
+            <tariff activationFee="19" ccbsComponentId="17879" ccbsPackageId="15921" id="30092" name="One Play 65" periodFee="65" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30277" name="POST Trzy razy więcej  (24)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100942" loyalityPeriod="36" noHandset="false" offerId="100942" offerName="Postpaid" penalty="1500" promotionIds="op_65_36" serviceType="mobile" startDate="2009-10-01T00:00:00.000+02:00">
+            <tariff activationFee="19" ccbsComponentId="17879" ccbsPackageId="15921" id="30092" name="One Play 65" periodFee="65" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30278" name="POST Trzy razy więcej  (36)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101762" isLow="false" loyalityPeriod="24" noHandset="false" offerId="101762" offerName="Postpaid" penalty="1500" promotionIds="SI_op_65_24" serviceType="mobile" startDate="2010-01-19T00:00:00.000+01:00">
+            <tariff activationFee="19" ccbsComponentId="17879" ccbsPackageId="15921" id="30092" name="One Play 65" periodFee="65" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30381" name="Swobodny Internet 2 (24)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101772" isLow="false" loyalityPeriod="36" noHandset="false" offerId="101772" offerName="Postpaid" penalty="1500" promotionIds="SI_op_65_36" serviceType="mobile" startDate="2010-01-19T00:00:00.000+01:00">
+            <tariff activationFee="19" ccbsComponentId="17879" ccbsPackageId="15921" id="30092" name="One Play 65" periodFee="65" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30382" name="Swobodny Internet 2 (36)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101032" isLow="true" loyalityPeriod="6" noHandset="true" offerId="101032" offerName="Postpaid" penalty="195" serviceType="mobile" startDate="2009-08-23T00:00:00.000+02:00">
+            <tariff activationFee="29" ccbsComponentId="17879" ccbsPackageId="15921" id="30092" name="One Play 65" periodFee="65" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30292" name="One Play bez telefonu (6)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="360693" loyalityPeriod="24" noHandset="false" offerId="360693" offerName="Postpaid" penalty="1500" promotionIds="op_65_24" serviceType="mobile" startDate="2008-01-01T00:00:00.000+01:00">
+            <tariff activationFee="1" ccbsComponentId="17879" ccbsPackageId="15921" id="30092" name="One Play 65" periodFee="65" setActivationFee="false" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30108" name="One Play PRACOWNICZA"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100681" isLow="true" loyalityPeriod="12" noHandset="true" offerId="100681" offerName="Postpaid" penalty="357" serviceType="mobile" startDate="2009-07-02T00:00:00.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="17879" ccbsPackageId="15921" id="30092" name="One Play 65" periodFee="65" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30257" isRollover="true" name="One Play bez telefonu (12) 2.07"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100931" loyalityPeriod="24" noHandset="false" offerId="100931" offerName="Postpaid" penalty="1080" promotionIds="op_45_24" serviceType="mobile" startDate="2009-10-01T00:00:00.000+02:00">
+            <tariff activationFee="49" ccbsComponentId="17878" ccbsPackageId="15920" id="30091" name="One Play 45" periodFee="45" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30277" name="POST Trzy razy więcej  (24)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100941" loyalityPeriod="36" noHandset="false" offerId="100941" offerName="Postpaid" penalty="1080" promotionIds="op_45_36" serviceType="mobile" startDate="2009-10-01T00:00:00.000+02:00">
+            <tariff activationFee="49" ccbsComponentId="17878" ccbsPackageId="15920" id="30091" name="One Play 45" periodFee="45" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30278" name="POST Trzy razy więcej  (36)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101761" isLow="false" loyalityPeriod="24" noHandset="false" offerId="101761" offerName="Postpaid" penalty="1080" promotionIds="SI_op_45_24" serviceType="mobile" startDate="2010-01-19T00:00:00.000+01:00">
+            <tariff activationFee="49" ccbsComponentId="17878" ccbsPackageId="15920" id="30091" name="One Play 45" periodFee="45" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30381" name="Swobodny Internet 2 (24)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101771" isLow="false" loyalityPeriod="36" noHandset="false" offerId="101771" offerName="Postpaid" penalty="1080" promotionIds="SI_op_45_36" serviceType="mobile" startDate="2010-01-19T00:00:00.000+01:00">
+            <tariff activationFee="49" ccbsComponentId="17878" ccbsPackageId="15920" id="30091" name="One Play 45" periodFee="45" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30382" name="Swobodny Internet 2 (36)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101031" isLow="true" loyalityPeriod="6" noHandset="true" offerId="101031" offerName="Postpaid" penalty="135" serviceType="mobile" startDate="2009-08-23T00:00:00.000+02:00">
+            <tariff activationFee="29" ccbsComponentId="17878" ccbsPackageId="15920" id="30091" name="One Play 45" periodFee="45" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30292" name="One Play bez telefonu (6)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="360692" loyalityPeriod="24" noHandset="false" offerId="360692" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2008-01-01T00:00:00.000+01:00">
+            <tariff activationFee="9" ccbsComponentId="17878" ccbsPackageId="15920" id="30091" name="One Play 45" periodFee="45" setActivationFee="false" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30108" name="One Play PRACOWNICZA"/>
+         </offer>
+         <offer acceptation="false" agreementType="postpaid" backupOfferId="360533" noHandset="true" offerId="360533" offerName="Postpaid" serviceType="mobile" startDate="2008-01-01T00:00:00.000+01:00">
+            <tariff activationFee="9" ccbsComponentId="17878" ccbsPackageId="15920" id="30091" name="One Play 45" periodFee="45" setActivationFee="false" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30087" name="One Play na czas nieokreślony"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100680" isLow="true" loyalityPeriod="12" noHandset="true" offerId="100680" offerName="Postpaid" penalty="321" serviceType="mobile" startDate="2009-07-02T00:00:00.000+02:00">
+            <tariff activationFee="9" ccbsComponentId="17878" ccbsPackageId="15920" id="30091" name="One Play 45" periodFee="45" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30257" isRollover="true" name="One Play bez telefonu (12) 2.07"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100930" loyalityPeriod="24" noHandset="false" offerId="100930" offerName="Postpaid" penalty="150" promotionIds="op_25_24" serviceType="mobile" startDate="2009-10-01T00:00:00.000+02:00">
+            <tariff activationFee="49" ccbsComponentId="17877" ccbsPackageId="15919" id="30090" name="One Play 25" periodFee="25" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30277" name="POST Trzy razy więcej  (24)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="100940" loyalityPeriod="36" noHandset="false" offerId="100940" offerName="Postpaid" penalty="150" promotionIds="op_25_36" serviceType="mobile" startDate="2009-10-01T00:00:00.000+02:00">
+            <tariff activationFee="49" ccbsComponentId="17877" ccbsPackageId="15919" id="30090" name="One Play 25" periodFee="25" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30278" name="POST Trzy razy więcej  (36)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101030" isLow="true" loyalityPeriod="6" noHandset="true" offerId="101030" offerName="Postpaid" penalty="75" serviceType="mobile" startDate="2009-08-23T00:00:00.000+02:00">
+            <tariff activationFee="29" ccbsComponentId="17877" ccbsPackageId="15919" id="30090" name="One Play 25" periodFee="25" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30292" name="One Play bez telefonu (6)"/>
+         </offer>
+         <offer acceptation="false" agreementType="postpaid" backupOfferId="360470" noHandset="true" offerId="360470" offerName="Postpaid" serviceType="mobile" startDate="2008-01-01T00:00:00.000+01:00">
+            <tariff activationFee="1.22" ccbsComponentId="17824" ccbsPackageId="15916" id="30084" name="Firmowa250" periodFee="305" setActivationFee="false" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30070" name="FIRMOWA na czas nieokreślony"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101755" isLow="false" loyalityPeriod="24" noHandset="false" offerId="101755" offerName="Postpaid" penalty="1500" promotionIds="SI_Firmowa250" serviceType="mobile" startDate="2010-01-19T00:00:00.000+01:00">
+            <tariff activationFee="1.22" ccbsComponentId="17824" ccbsPackageId="15916" id="30084" name="Firmowa250" periodFee="305" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30380" name="Swobodny Internet dla Firm 2"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102475" isLow="false" loyalityPeriod="24" noHandset="false" offerId="102475" offerName="Postpaid" penalty="1500" promotionIds="Firmowa250" serviceType="mobile" startDate="2010-06-18T00:00:00.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17824" ccbsPackageId="15916" id="30084" name="Firmowa250" periodFee="305" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30441" name="Wakacyjne rabaty w Firmie"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="103005" isLow="false" loyalityPeriod="24" noHandset="false" offerId="103005" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2010-09-20T23:26:32.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17824" ccbsPackageId="15916" id="30084" name="Firmowa250" periodFee="305" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30494" name="Wakacyjne rabaty w Firmie (28.09)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="103035" isLow="false" loyalityPeriod="24" noHandset="false" offerId="103035" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2010-09-20T23:29:56.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17824" ccbsPackageId="15916" id="30084" name="Firmowa250" periodFee="305" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30496" name="Kolejny telefon w Play dla Firm 5"/>
+         </offer>
+         <offer acceptation="false" agreementType="postpaid" backupOfferId="360469" noHandset="true" offerId="360469" offerName="Postpaid" serviceType="mobile" startDate="2008-01-01T00:00:00.000+01:00">
+            <tariff activationFee="1.22" ccbsComponentId="17436" ccbsPackageId="15904" id="30083" name="Firmowa150" periodFee="183" setActivationFee="false" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30070" name="FIRMOWA na czas nieokreślony"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101754" isLow="false" loyalityPeriod="24" noHandset="false" offerId="101754" offerName="Postpaid" penalty="1500" promotionIds="SI_Firmowa150" serviceType="mobile" startDate="2010-01-19T00:00:00.000+01:00">
+            <tariff activationFee="1.22" ccbsComponentId="17436" ccbsPackageId="15904" id="30083" name="Firmowa150" periodFee="183" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30380" name="Swobodny Internet dla Firm 2"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102474" isLow="false" loyalityPeriod="24" noHandset="false" offerId="102474" offerName="Postpaid" penalty="1500" promotionIds="Firmowa150" serviceType="mobile" startDate="2010-06-18T00:00:00.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17436" ccbsPackageId="15904" id="30083" name="Firmowa150" periodFee="183" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30441" name="Wakacyjne rabaty w Firmie"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="103004" isLow="false" loyalityPeriod="24" noHandset="false" offerId="103004" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2010-09-20T23:26:30.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17436" ccbsPackageId="15904" id="30083" name="Firmowa150" periodFee="183" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30494" name="Wakacyjne rabaty w Firmie (28.09)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="103034" isLow="false" loyalityPeriod="24" noHandset="false" offerId="103034" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2010-09-20T23:29:55.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17436" ccbsPackageId="15904" id="30083" name="Firmowa150" periodFee="183" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30496" name="Kolejny telefon w Play dla Firm 5"/>
+         </offer>
+         <offer acceptation="false" agreementType="postpaid" backupOfferId="360468" noHandset="true" offerId="360468" offerName="Postpaid" serviceType="mobile" startDate="2008-01-01T00:00:00.000+01:00">
+            <tariff activationFee="1.22" ccbsComponentId="17435" ccbsPackageId="15903" id="30082" name="Firmowa100" periodFee="122" setActivationFee="false" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30070" name="FIRMOWA na czas nieokreślony"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101753" isLow="false" loyalityPeriod="24" noHandset="false" offerId="101753" offerName="Postpaid" penalty="1436" promotionIds="SI_Firmowa100" serviceType="mobile" startDate="2010-01-19T00:00:00.000+01:00">
+            <tariff activationFee="1.22" ccbsComponentId="17435" ccbsPackageId="15903" id="30082" name="Firmowa100" periodFee="122" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30380" name="Swobodny Internet dla Firm 2"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102473" isLow="false" loyalityPeriod="24" noHandset="false" offerId="102473" offerName="Postpaid" penalty="1500" promotionIds="Firmowa100" serviceType="mobile" startDate="2010-06-18T00:00:00.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17435" ccbsPackageId="15903" id="30082" name="Firmowa100" periodFee="122" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30441" name="Wakacyjne rabaty w Firmie"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102832" isLow="true" loyalityPeriod="12" noHandset="true" offerId="102832" offerName="Postpaid" penalty="549" serviceType="mobile" startDate="2010-08-31T00:00:00.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17435" ccbsPackageId="15903" id="30082" name="Firmowa100" periodFee="122" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30477" name="Umowa bez telefonu od 31.08"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="103003" isLow="false" loyalityPeriod="24" noHandset="false" offerId="103003" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2010-09-20T23:26:29.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17435" ccbsPackageId="15903" id="30082" name="Firmowa100" periodFee="122" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30494" name="Wakacyjne rabaty w Firmie (28.09)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="103033" isLow="false" loyalityPeriod="24" noHandset="false" offerId="103033" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2010-09-20T23:29:53.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17435" ccbsPackageId="15903" id="30082" name="Firmowa100" periodFee="122" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30496" name="Kolejny telefon w Play dla Firm 5"/>
+         </offer>
+         <offer acceptation="false" agreementType="postpaid" backupOfferId="360467" noHandset="true" offerId="360467" offerName="Postpaid" serviceType="mobile" startDate="2008-01-01T00:00:00.000+01:00">
+            <tariff activationFee="1.22" ccbsComponentId="17434" ccbsPackageId="15902" id="30081" name="Firmowa75" periodFee="91.5" setActivationFee="false" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30070" name="FIRMOWA na czas nieokreślony"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="101752" isLow="false" loyalityPeriod="24" noHandset="false" offerId="101752" offerName="Postpaid" penalty="1028" promotionIds="SI_Firmowa75" serviceType="mobile" startDate="2010-01-19T00:00:00.000+01:00">
+            <tariff activationFee="1.22" ccbsComponentId="17434" ccbsPackageId="15902" id="30081" name="Firmowa75" periodFee="91.5" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30380" name="Swobodny Internet dla Firm 2"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102472" isLow="false" loyalityPeriod="24" noHandset="false" offerId="102472" offerName="Postpaid" penalty="1500" promotionIds="Firmowa75" serviceType="mobile" startDate="2010-06-18T00:00:00.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17434" ccbsPackageId="15902" id="30081" name="Firmowa75" periodFee="91.5" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30441" name="Wakacyjne rabaty w Firmie"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="103002" isLow="false" loyalityPeriod="24" noHandset="false" offerId="103002" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2010-09-20T23:26:27.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17434" ccbsPackageId="15902" id="30081" name="Firmowa75" periodFee="91.5" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30494" name="Wakacyjne rabaty w Firmie (28.09)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="103032" isLow="false" loyalityPeriod="24" noHandset="false" offerId="103032" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2010-09-20T23:29:52.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17434" ccbsPackageId="15902" id="30081" name="Firmowa75" periodFee="91.5" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30496" name="Kolejny telefon w Play dla Firm 5"/>
+         </offer>
+         <offer acceptation="false" agreementType="postpaid" backupOfferId="360466" noHandset="true" offerId="360466" offerName="Postpaid" serviceType="mobile" startDate="2008-01-01T00:00:00.000+01:00">
+            <tariff activationFee="12.2" ccbsComponentId="17433" ccbsPackageId="15901" id="30080" name="Firmowa50" periodFee="61" setActivationFee="false" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30070" name="FIRMOWA na czas nieokreślony"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102471" isLow="false" loyalityPeriod="24" noHandset="false" offerId="102471" offerName="Postpaid" penalty="1500" promotionIds="Firmowa50" serviceType="mobile" startDate="2010-06-18T00:00:00.000+02:00">
+            <tariff activationFee="12.2" ccbsComponentId="17433" ccbsPackageId="15901" id="30080" name="Firmowa50" periodFee="61" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30441" name="Wakacyjne rabaty w Firmie"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102831" isLow="true" loyalityPeriod="12" noHandset="true" offerId="102831" offerName="Postpaid" penalty="366" serviceType="mobile" startDate="2010-08-31T00:00:00.000+02:00">
+            <tariff activationFee="12.2" ccbsComponentId="17433" ccbsPackageId="15901" id="30080" name="Firmowa50" periodFee="61" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30477" name="Umowa bez telefonu od 31.08"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="103001" isLow="false" loyalityPeriod="24" noHandset="false" offerId="103001" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2010-09-20T23:26:25.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17433" ccbsPackageId="15901" id="30080" name="Firmowa50" periodFee="61" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30494" name="Wakacyjne rabaty w Firmie (28.09)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="103031" isLow="false" loyalityPeriod="24" noHandset="false" offerId="103031" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2010-09-20T23:29:50.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="17433" ccbsPackageId="15901" id="30080" name="Firmowa50" periodFee="61" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30496" name="Kolejny telefon w Play dla Firm 5"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102470" isLow="false" loyalityPeriod="24" noHandset="false" offerId="102470" offerName="Postpaid" penalty="1500" promotionIds="Firmowa25" serviceType="mobile" startDate="2010-06-18T00:00:00.000+02:00">
+            <tariff activationFee="35.38" ccbsComponentId="18188" ccbsPackageId="15927" id="30085" name="Firmowa25" periodFee="30.5" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30441" name="Wakacyjne rabaty w Firmie"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102830" isLow="true" loyalityPeriod="12" noHandset="true" offerId="102830" offerName="Postpaid" penalty="183" serviceType="mobile" startDate="2010-08-31T00:00:00.000+02:00">
+            <tariff activationFee="35.38" ccbsComponentId="18188" ccbsPackageId="15927" id="30085" name="Firmowa25" periodFee="30.5" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30477" name="Umowa bez telefonu od 31.08"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="103000" isLow="false" loyalityPeriod="24" noHandset="false" offerId="103000" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2010-09-20T23:26:24.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="18188" ccbsPackageId="15927" id="30085" name="Firmowa25" periodFee="30.5" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30494" name="Wakacyjne rabaty w Firmie (28.09)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="103030" isLow="false" loyalityPeriod="24" noHandset="false" offerId="103030" offerName="Postpaid" penalty="1500" promotionIds="op_45_24" serviceType="mobile" startDate="2010-09-20T23:29:49.000+02:00">
+            <tariff activationFee="1.22" ccbsComponentId="18188" ccbsPackageId="15927" id="30085" name="Firmowa25" periodFee="30.5" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30496" name="Kolejny telefon w Play dla Firm 5"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102100" isLow="false" loyalityPeriod="24" noHandset="false" offerId="102100" offerName="Postpaid" penalty="1500" promotionIds="P_PREM_200" serviceType="mobile" startDate="2010-03-16T00:00:00.000+01:00">
+            <tariff activationFee="1" ccbsComponentId="19239" ccbsPackageId="15964" id="30134" name="Play Premium 200" periodFee="200" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30406" name="Play Premium"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" loyalityPeriod="24" noHandset="false" offerId="101260" offerName="Postpaid" penalty="614" promotionIds="op40_24_pro" serviceType="mobile" startDate="2009-11-12T00:00:00.000+01:00">
+            <tariff activationFee="49" ccbsComponentId="18634" ccbsPackageId="15938" id="30115" name="One Play PR0 40" periodFee="40" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30323" name="One Play PRO (24)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" loyalityPeriod="24" noHandset="false" offerId="101261" offerName="Postpaid" penalty="614" promotionIds="op60_24_pro" serviceType="mobile" startDate="2009-11-12T00:00:00.000+01:00">
+            <tariff activationFee="29" ccbsComponentId="18635" ccbsPackageId="15939" id="30116" name="One Play PR0 60" periodFee="60" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30323" name="One Play PRO (24)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" loyalityPeriod="36" noHandset="false" offerId="101270" offerName="Postpaid" penalty="614" promotionIds="op40_36_pro" serviceType="mobile" startDate="2009-11-12T00:00:00.000+01:00">
+            <tariff activationFee="49" ccbsComponentId="18634" ccbsPackageId="15938" id="30115" name="One Play PR0 40" periodFee="40" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30324" name="One Play PRO (36)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" loyalityPeriod="36" noHandset="false" offerId="101271" offerName="Postpaid" penalty="614" promotionIds="op60_36_pro" serviceType="mobile" startDate="2009-11-12T00:00:00.000+01:00">
+            <tariff activationFee="29" ccbsComponentId="18635" ccbsPackageId="15939" id="30116" name="One Play PR0 60" periodFee="60" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30324" name="One Play PRO (36)"/>
+         </offer>
+         <offer acceptation="true" agreementType="postpaid" backupOfferId="102754" isLow="false" loyalityPeriod="24" noHandset="false" offerId="102754" offerName="Postpaid" penalty="1500" promotionIds="SI_P_PREM_200" serviceType="mobile" startDate="2010-08-18T00:00:00.000+02:00">
+            <tariff activationFee="1" ccbsComponentId="19239" ccbsPackageId="15964" id="30134" name="Play Premium 200" periodFee="200" setActivationFee="true" voiceData="VOICE"/>
+            <offerPromotion ccbsPromotionId="30469" name="LongPlay INTERNET"/>
+         </offer>
+      </getMigrationOffersResponse>
+   </soap:Body>
+</soap:Envelope>
